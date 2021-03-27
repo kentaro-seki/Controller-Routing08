@@ -13,4 +13,4 @@
             </div>
         </div>
     </div>
-@endsection<!DOCTYPE html>
+@endsection
